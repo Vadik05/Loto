@@ -11,7 +11,7 @@ fun main() {
     println(info)
     height = 1.49
     println("Новый рост = " + height)
-    println(info.replace("height", "height"))
+    println(info.replace("height", "height2"))
 
 
 }
