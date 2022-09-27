@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="852ee839-a29f-48c0-8c34-6a2dd84fd3f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../02_HelloKotlin/HelloKotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_HelloKotlin/HelloKotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/META-INF/String_03Lesson.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/cacheable/last-build.bin" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2FMfy8g6BnWzCTEGaf8QUbDqpbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852ee839-a29f-48c0-8c34-6a2dd84fd3f2" name="Changes" comment="" />
+      <created>1664307130757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664307130757</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
