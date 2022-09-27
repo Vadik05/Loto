@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f91b04f-6718-4ab3-bcc2-0958c8f93f5c" name="Changes" comment="Пока не получается внести изменения в строку info" />
+    <list default="true" id="6f91b04f-6718-4ab3-bcc2-0958c8f93f5c" name="Changes" comment="Перенос и редактирование в локальном репозитории" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,16 +27,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/MyRep/dpo_kotlin/03_Variables_types",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MyRep/dpo_kotlin/03_Variables_types&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKt" />
@@ -88,7 +88,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664305499923</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Пока не получается внести изменения в строку info">
+      <created>1664306083675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664306083675</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Пока не получается внести изменения в строку info">
+      <created>1664306263724</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664306263724</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Перенос и редактирование в локальном репозитории">
+      <created>1664306357031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664306357031</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Процесс домашнего задания" />
     <MESSAGE value="Пока не получается внести изменения в строку info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пока не получается внести изменения в строку info" />
+    <MESSAGE value="Перенос и редактирование в локальном репозитории" />
+    <option name="LAST_COMMIT_MESSAGE" value="Перенос и редактирование в локальном репозитории" />
   </component>
 </project>
