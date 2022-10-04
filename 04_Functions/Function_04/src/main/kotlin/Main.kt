@@ -6,7 +6,7 @@ fun main() {
     val newFirstString = firstString.map {char -> char + 1}.joinToString("").replace("5", "s").replace("4", "u").map {char -> char - 3}.joinToString("").replace("0", "o")
     val newSecondString = secondString.map {char -> char -4}.joinToString(" ").replace("_", " ")
 
-    println(newFirstString)
+    println(newFirstString + newSecondString)
 
 
 }
