@@ -1,16 +1,24 @@
 fun main() {
     println("Введите n > 0")
-    var n  = readLine()?.toIntOrNull()?: return
-    if (n <= 0 || n > 47) {
+    var n = readLine()?.toIntOrNull() ?: return
+    while (n <= 0 || n > 47) {
         println("Число должно быть больше 0 и меньше 47")
-        n = readLine()?.toIntOrNull()?:return
-
+        n = readLine()?.toIntOrNull() ?: return
     }
-    if (n <= 1 || n == 2){
+    while (n <= 1 || n == 2) {
         println("1")
+        return
     }
-    else {(fib(n))}
+    fib(n)
 }
+//    if (n <= 0 || n > 47) {
+//        println("Число должно быть больше 0 и меньше 47")
+//        n = readLine()?.toIntOrNull()?:return
+//    if (n <= 1 || n == 2){
+//        println("1")
+//    }
+//    else {(fib(n))}
+
 fun fib (n: Int) {
     var f1 = 0
     var f2 = 1
