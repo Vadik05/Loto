@@ -1,0 +1,1 @@
+C:\MyRep\dpo_kotlin\07_ClassesAndObjects\TV\build\classes\kotlin\main\Channels.class;C:\MyRep\dpo_kotlin\07_ClassesAndObjects\TV\build\classes\kotlin\main\MainKt.class;C:\MyRep\dpo_kotlin\07_ClassesAndObjects\TV\build\classes\kotlin\main\Tv$Companion.class;C:\MyRep\dpo_kotlin\07_ClassesAndObjects\TV\build\classes\kotlin\main\Tv.class

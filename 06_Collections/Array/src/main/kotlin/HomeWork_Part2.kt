@@ -1,6 +1,3 @@
-import kotlin.random.Random
-import kotlin.random.nextInt
-
 fun main() {
     val loginBase: HashMap<String, String> = hashMapOf()
     val n = 3
