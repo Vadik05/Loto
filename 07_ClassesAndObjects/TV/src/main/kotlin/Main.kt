@@ -7,22 +7,33 @@ fun main() {
 
     printinfo(Samsung)
     Samsung.turnOnPower()
-    Samsung.printChannelList()
     Samsung.channelPlus(1)
-    Channels.getRandomChannels()
-    Channels.listOfChannels()
-    Samsung.useVolumePlus(55)
-
+    Samsung.listOfChannelsTv()
+    Samsung.newChannels()
     Samsung.channelMinus(1)
+    Samsung.useVolume(1)
+    Samsung.turnOffPower()
 
 
 
     printinfo(Panasonic)
     Panasonic.turnOnPower()
-    Panasonic.channelPlus(2)
-    Channels.getRandomChannels()
-    Channels.listOfChannels()
+    Panasonic.channelPlus(1)
+    Panasonic.listOfChannelsTv()
+    Panasonic.newChannels()
+    Panasonic.channelMinus(1)
+    Panasonic.useVolume(1)
     Panasonic.turnOffPower()
+
+
+    printinfo(Philips)
+    Philips.turnOnPower()
+    Philips.channelPlus(1)
+    Philips.listOfChannelsTv()
+    Philips.newChannels()
+    Philips.channelMinus(1)
+    Philips.useVolume(1)
+    Philips.turnOffPower()
 
 
 
