@@ -7,9 +7,8 @@ fun main() {
 
     printinfo(Samsung)
     Samsung.turnOnPower()
+    Channels.listOfChannels()         // Получаем список каналов из Channels
     Samsung.channelPlus(1)
-    Samsung.listOfChannelsTv()
-    Samsung.newChannels()
     Samsung.channelMinus(1)
     Samsung.useVolume(1)
     Samsung.turnOffPower()
@@ -18,9 +17,8 @@ fun main() {
 
     printinfo(Panasonic)
     Panasonic.turnOnPower()
+    Channels.listOfChannels()     // Получаем список каналов  из Channels
     Panasonic.channelPlus(1)
-    Panasonic.listOfChannelsTv()
-    Panasonic.newChannels()
     Panasonic.channelMinus(1)
     Panasonic.useVolume(1)
     Panasonic.turnOffPower()
@@ -29,8 +27,7 @@ fun main() {
     printinfo(Philips)
     Philips.turnOnPower()
     Philips.channelPlus(1)
-    Philips.listOfChannelsTv()
-    Philips.newChannels()
+    Channels.listOfChannels()
     Philips.channelMinus(1)
     Philips.useVolume(1)
     Philips.turnOffPower()

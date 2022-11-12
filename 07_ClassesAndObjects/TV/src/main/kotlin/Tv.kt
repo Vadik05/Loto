@@ -3,6 +3,7 @@ import kotlin.random.Random
 class Tv (val brand: String, val model: String, val inch: Double,){
 
     var currentChannel = 1
+    val chan = Channels.getRandomChannels()
 
     private var powerOn = false
 
@@ -18,8 +19,8 @@ class Tv (val brand: String, val model: String, val inch: Double,){
     fun channelPlus(channel: Int){
         println("Текущий канал " + currentChannel)
         currentChannel += channel
-        if (channel > 0 && channel <= Channels.listOfChannelsTv.size){
-            Channels.listOfChannelsTv.forEachIndexed { index,  s ->
+        if (channel > 0 && channel <= chan.size){
+            chan.forEachIndexed { index,  s ->
                 if ( channel == index + 1) currentChannel = channel
             }
             println("Номер канала увеличен на +1")
@@ -42,14 +43,6 @@ class Tv (val brand: String, val model: String, val inch: Double,){
         println("Текущий канал $currentChannel")
 
     }
-
-    fun newChannels(){
-    Channels.getRandomChannels()
-    }
-    fun listOfChannelsTv() {
-        Channels.listOfChannels()
-    }
-
     fun useVolume (volumeCount : Int): Int {
         var volumeCount = Random.nextInt(1, 50)
         println("Текущая громкость $volumeCount")
@@ -60,15 +53,7 @@ class Tv (val brand: String, val model: String, val inch: Double,){
         println("Уменьшаем громкость на 7")
         println("Текущая громкость $volumeCount")
         return volumeCount
-
     }
-
-
-
-
-
-
-
     companion object{
         const val maxVolume = 50
         const val minVolume = 0
