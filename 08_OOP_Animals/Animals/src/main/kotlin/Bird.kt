@@ -9,5 +9,6 @@ open class Bird(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: 
 
     override fun animalBorn() {
         super.animalBorn()
+        return
     }
 }

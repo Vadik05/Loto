@@ -9,5 +9,6 @@ open class Dog(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: I
 
     override fun animalBorn() {
         super.animalBorn()
+        return
     }
 }
