@@ -1,34 +1,36 @@
 import kotlin.random.Random
 
-open class Animal(val name: String, var Energy: Int, val weight: Int, val currentAge: Int, val maxAge: Int) {
+open class Animal(
+    val name: String,
+    var Energy: Int,
+    val weight: Int,
+    val currentAge: Int,
+    val maxAge: Int,
+    var isTooOld: Boolean = currentAge >= maxAge
+) {
     fun sleep() {
         var Energy = Energy + 5
         var currentAge = currentAge + 1
-        println("${name}Sleep")
+        var isToOld : Boolean = currentAge >= maxAge
+        println("${name} Спит")
     }
     fun eat() {
         var Energy = Energy + 3
         var weight = weight + 1
         var currentAge = (0..1).random()
-        println("${name}Eat")
+        println("${name} Ест")
     }
 
     open fun move() {
         var Energy = Energy - 5
         var weight = weight - 1
         var currentAge = (0..1).random()
-        println("Move")
+        println("${name} Двигается")
     }
-    fun isToOld() {
-        if (currentAge >= maxAge)
-            println("isToOld - true")
-        else
-            println("isToOld - false")
-    }
-    fun tryIncrementAge(){
+
+    open fun tryIncrementAge(){
         if(Random.nextBoolean()){
             currentAge >= maxAge || weight < 2 || Energy < 6
-
         }
     }
     open fun animalBorn(){
