@@ -38,9 +38,11 @@ open class Animal(
         var childName = this.name
         var childEnergy = (1..10).random()
         var childWeight = (1..5).random()
+        var childCurrentAge = (1..5).random()
         var childMaxAge = this.maxAge
         println("В заповеднике родился ${childName}, энергия - ${childEnergy}, вес - ${childWeight}," +
                 " максимальный возраст - ${childMaxAge}")
-        return animalBorn()
+        return Animal(name = childName, Energy = childEnergy, weight = childWeight,
+            currentAge = childCurrentAge, maxAge = childMaxAge)
     }
 }

@@ -8,7 +8,7 @@ open class Dog(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: I
     }
 
     override fun animalBorn(): Dog {
-        return super.animalBorn() as Dog
+        return Dog(name, Energy, weight, currentAge, maxAge)
 
     }
 }

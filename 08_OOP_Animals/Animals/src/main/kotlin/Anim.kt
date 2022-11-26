@@ -7,6 +7,6 @@ open class Anim(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: 
     }
 
     override fun animalBorn(): Anim {
-        return super.animalBorn() as Anim
+        return Anim(name, Energy, weight, currentAge, maxAge)
     }
 }
