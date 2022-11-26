@@ -7,8 +7,7 @@ open class Bird(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: 
         println(" летит ")
     }
 
-    override fun animalBorn() {
-        super.animalBorn()
-        return
+    override fun animalBorn(): Bird {
+        return super.animalBorn() as Bird
     }
 }

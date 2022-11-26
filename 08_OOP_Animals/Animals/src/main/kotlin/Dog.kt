@@ -7,8 +7,8 @@ open class Dog(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: I
         println(" бежит ")
     }
 
-    override fun animalBorn() {
-        super.animalBorn()
-        return
+    override fun animalBorn(): Dog {
+        return super.animalBorn() as Dog
+
     }
 }

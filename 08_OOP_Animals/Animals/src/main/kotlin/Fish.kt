@@ -7,8 +7,7 @@ open class Fish(nameArg: String, energyArg: Int, weightArg: Int, currentAgeArg: 
         println(" плывет ")
     }
 
-    override fun animalBorn() {
-        super.animalBorn()
-        return
+    override fun animalBorn(): Fish {
+        return super.animalBorn() as Fish
     }
 }

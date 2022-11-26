@@ -33,11 +33,14 @@ open class Animal(
             currentAge >= maxAge || weight < 2 || Energy < 6
         }
     }
-    open fun animalBorn() {
+    open fun animalBorn() : Animal {
+
         var childName = this.name
         var childEnergy = (1..10).random()
         var childWeight = (1..5).random()
-        println("В заповеднике родился ${childName}, энергия - ${childEnergy}, вес - ${childWeight}")
-        return
+        var childMaxAge = this.maxAge
+        println("В заповеднике родился ${childName}, энергия - ${childEnergy}, вес - ${childWeight}," +
+                " максимальный возраст - ${childMaxAge}")
+        return animalBorn()
     }
 }
