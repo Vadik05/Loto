@@ -1,4 +1,4 @@
-import kotlin.random.Random
+
 
 fun main (){
 
@@ -28,7 +28,6 @@ val wheel = Wheel()
     wheel.checkPressure()
 
 }
-
 class TooHighPressure : Throwable ("Давление слишком высокое")
 
 class TooLowPressure : Throwable ("Давление слишком низкое")
