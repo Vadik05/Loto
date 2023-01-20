@@ -7,7 +7,6 @@ class Wheel {
         return
 
     }
-
     fun checkPressure() {
         when (currentPressure) {
             in 2.6..10.0 -> throw TooHighPressure()
@@ -15,7 +14,5 @@ class Wheel {
             in 1.6..2.5 -> println("Колесо накачали, давление в норме")
             else -> throw IncorrectPressure()
         }
-
-
     }
 }

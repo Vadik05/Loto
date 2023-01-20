@@ -8,8 +8,6 @@ fun main (){
 //
 //    val list = List(5) {Random.nextInt()}
 //    try {
-//
-//
 //        for (i in 1 .. list.size)    //    Если вместо size поставить indices , то ошибки не будет
 //            println(list[i])
 //        println(" Ошибка! ")
