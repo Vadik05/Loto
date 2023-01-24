@@ -23,7 +23,7 @@ fun fib (n: Int) {
     var f1 = 0
     var f2 = 1
     var f3 = 0
-    for (j in 2 .. n){
+    for (i in 2 .. n){
         f3 = f1 + f2
         f1 = f2
         f2 = f3
