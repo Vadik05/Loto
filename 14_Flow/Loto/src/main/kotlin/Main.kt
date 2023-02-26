@@ -5,7 +5,7 @@ import kotlinx.coroutines.flow.asSharedFlow
 import java.util.Collections.shuffle
 
 
-suspend fun main() {
+fun main() {
     runBlocking {
         launch {
 
